@@ -50,7 +50,7 @@ This project demonstrates the use of Microsoft Excel for retail business analysi
 
 Add your dashboard screenshot below:
 
-![Dashboard](Dashboard_Screenshot.png)
+![Dashboard](https://github.com/Anand-art528/Excel_Project/blob/main/Dashboard_Screenshot.png?raw=true)
 
 ## Author
 
